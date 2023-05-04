@@ -34,7 +34,7 @@ Adapter模式常常被使用在以下的情境：
 
 ## URL結構圖
 ![](https://drive.google.com/uc?id=1mCelcRfe8SdD1-eaxEdGygphti_787uy)
-> 圖片來源：[Refactoring.Guru - Proxy](https://refactoring.guru/design-patterns/adapter)
+> 圖片來源：[Refactoring.Guru - Adapter](https://refactoring.guru/design-patterns/adapter)
 
 ---
 <br>
