@@ -1,4 +1,3 @@
-# design-pattern-adapter
 # ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) Adapter 轉接器模式
 > ##### 理論請自行找，網路上有很多相關的文章，這邊只關注於範例實作的部分.
 
@@ -60,7 +59,7 @@ Adapter模式常常被使用在以下的情境：
 <br>
 
 ## 參考資料
-* [Wiki - Adapter Patternn](https://en.wikipedia.org/wiki/Adapter_pattern) <br>
+* [Wiki - Adapter Pattern](https://en.wikipedia.org/wiki/Adapter_pattern) <br>
 * [Refactoring.Guru - Adapter](https://refactoring.guru/design-patterns/adapter) <br>
 
 ---
