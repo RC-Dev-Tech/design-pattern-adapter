@@ -47,7 +47,7 @@ Adapter模式常常被使用在以下的情境：
 ---
 
 ## 實作範例:
-- [待補...]() 
+- [Example](https://github.com/RC-Dev-Tech/design-pattern-adapter/blob/main/C%2B%2B/main.cpp) - Prototype Pattern (C++) 
 
 ---
 
